@@ -1,0 +1,37 @@
+.centeralign {
+            text-align:center
+        }
+       #bottompage{
+            color: #FFFFFF;
+            }
+        body {background-color: #3C3C3C;}
+        th {color: #FFFFFF;}
+        p {color: #FFFFFF;}
+        a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: darkgrey;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+body  {
+  background-image: url("images/background.jpg");
+  background-color: #cccccc;
+}
